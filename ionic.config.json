@@ -1,0 +1,7 @@
+{
+  "name": "pedra papel tesoura",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
