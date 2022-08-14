@@ -12,4 +12,4 @@ O projeto foi desenvolvido usando o framework ionic para fins didádicos, devido
 ## 🚀 Como executar  
   
 
-O projeto está hospedado nesse [endereço](https://pokedex-8bb62.web.app/), sintam se livres para usar o sistema.  Caso queira rodar localmente basta clonar o repositório e rodar `npm run start`.
+Para rodar o projeto você tera que ter instalado ionic no seu pc `npm install -g @ionic/cli` depois clone o repo e rode `npm install` e depois `ionic serve` ative o modo responsivo e selecione o dispositivo desejado.
