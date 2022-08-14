@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "pedra papel tesoura",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
